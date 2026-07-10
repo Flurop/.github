@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=C%23&logoColor=white)
 
-## 📫 Get In Touch
+## Get In Touch
 
 Have questions or want to collaborate? You can reach out to me at: **[flora@ratgers.nl](flora@ratgers.nl)**.
 
