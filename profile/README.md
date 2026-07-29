@@ -3,7 +3,6 @@
 > **Im a small developer, and head of [@Orbinuity](https://github.com/Orbinuity)**
 
 [![My Website](https://img.shields.io/badge/My_Website-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white)](https://flurop.github.io/)
-[![I Support](https://img.shields.io/badge/I_Support-%2300599C.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://flurop.github.io/isupport)
 
 ---
 ## My Languages
